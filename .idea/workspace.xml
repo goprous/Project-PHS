@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="180cd31e-71a9-44c8-9b06-28b54019d332" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/Project-PHS.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProjectPHS/file.html" />
-      <change beforePath="$PROJECT_DIR$/ProjectPHS/index.html" afterPath="$PROJECT_DIR$/ProjectPHS/index.html" />
-    </list>
+    <list default="true" id="180cd31e-71a9-44c8-9b06-28b54019d332" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -31,11 +24,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="file.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="file.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProjectPHS/file.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dev.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ProjectPHS/dev.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -58,6 +61,7 @@
       <list>
         <option value="$PROJECT_DIR$/ProjectPHS/index.html" />
         <option value="$PROJECT_DIR$/ProjectPHS/file.html" />
+        <option value="$PROJECT_DIR$/ProjectPHS/dev.html" />
       </list>
     </option>
   </component>
@@ -139,12 +143,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517803596151</updated>
-      <workItem from="1517803597856" duration="186000" />
+      <workItem from="1517803597856" duration="530000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186000" />
+    <option name="totallyTimeSpent" value="530000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -192,6 +196,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectPHS/dev.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
           <folding />
         </state>
       </provider>
